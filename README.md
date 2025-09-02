@@ -41,6 +41,8 @@ https://rag-app-8fu5ywvvsgappl6favhyjtd.streamlit.app/
     │── langgraph_tool_backend.py    # LangGraph backend + checkpoint storage
     │── requirements.txt             # Python dependencies
     │── README.md                    # Project documentation
+    │── .gitignore                   # git ingnore
+    
 
 ------------------------------------------------------------------------
 
