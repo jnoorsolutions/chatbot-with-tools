@@ -1,5 +1,9 @@
 streamlit
-langgraph>=0.6.5
+langgraph==0.6.5
+langgraph-checkpoint==2.1.1
+langgraph-checkpoint-sqlite==2.0.11
+langgraph-prebuilt==0.6.4
+langgraph-sdk==0.2.0
 langchain
 langchain-core
 langchain-openai
@@ -8,5 +12,3 @@ langchain-groq
 duckduckgo-search
 python-dotenv
 requests
-
-
