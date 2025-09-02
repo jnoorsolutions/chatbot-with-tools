@@ -34,7 +34,6 @@ This project demonstrates:
 🧪 Application Url
 https://rag-app-8fu5ywvvsgappl6favhyjtd.streamlit.app/
 
-
 ## 📂 Project Structure
 
     project/
