@@ -12,5 +12,6 @@ langchain-groq
 duckduckgo-search==5.3.1
 python-dotenv
 requests
-ddgs==1.9.7
+ddgs==9.5.5
+
 
