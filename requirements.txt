@@ -1,5 +1,5 @@
 streamlit
-langgraph
+langgraph>=0.6.5
 langchain
 langchain-core
 langchain-openai
@@ -8,4 +8,5 @@ langchain-groq
 duckduckgo-search
 python-dotenv
 requests
+
 
