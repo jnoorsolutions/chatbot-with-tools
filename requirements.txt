@@ -1,23 +1,10 @@
-# --- Core LangChain / LangGraph ---
-langchain>=0.2.0
-langgraph>=0.2.25
-langchain-openai>=0.1.8
-langchain-groq>=0.0.2
-langchain-community>=0.2.0
-langchain-core>=0.2.0
-
-# --- Streamlit frontend ---
-streamlit>=1.36.0
-
-# --- Database + Checkpoint ---
-sqlalchemy>=2.0.29
-
-# --- Tools & APIs ---
-requests>=2.31.0
-duckduckgo-search>=5.1.0
-python-dotenv>=1.0.1
-
-# --- Optional / Debugging ---
-graphviz>=0.20.3
-
-
+streamlit
+langgraph>=0.2.14
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-groq
+duckduckgo-search
+python-dotenv
+requests
