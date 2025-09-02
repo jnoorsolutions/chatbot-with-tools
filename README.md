@@ -29,7 +29,11 @@ This project demonstrates:
 ### 🖥️ Streamlit Frontend
 - Sidebar with **New Chat** button and list of saved conversations.  
 - Chat history rendered in **chat-style messages**.  
-- Real-time assistant streaming response with tool status indicators.  
+- Real-time assistant streaming response with tool status indicators.
+
+🧪 Application Url
+https://rag-app-8fu5ywvvsgappl6favhyjtd.streamlit.app/
+
 
 ## 📂 Project Structure
 
