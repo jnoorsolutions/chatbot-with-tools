@@ -108,3 +108,8 @@ Then open your browser at **http://localhost:8501**.
 
 Released under the **MIT License**.\
 You are free to use, modify, and distribute this project.
+
+---
+
+## 👨‍💻 Author  
+Developed by **Junaid Noor Siddiqui** ✨  
